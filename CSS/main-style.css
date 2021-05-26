@@ -436,7 +436,7 @@ display: flex;
 .works  .cont-work .work {
   overflow: hidden;
   position: relative;
-  width: 320px;
+  /* width: 320px; */
 }
 .works  .cont-work .work .text {
   position: absolute;
